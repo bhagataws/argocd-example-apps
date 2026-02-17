@@ -9,7 +9,7 @@ spec:
     server: https://172.18.0.3:6443
   project: default
   source:
-    path: guestbook
+    path: guestbook/apponly
     repoURL: https://github.com/bhagataws/argocd-example-apps.git
     targetRevision: HEAD
   syncPolicy:
