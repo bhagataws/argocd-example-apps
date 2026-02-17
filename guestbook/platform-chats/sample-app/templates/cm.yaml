@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  test: pass
+kind: ConfigMap
+metadata:
+  name: vaibhav
+

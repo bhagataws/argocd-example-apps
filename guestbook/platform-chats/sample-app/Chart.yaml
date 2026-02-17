@@ -1,0 +1,6 @@
+apiVersion: v2
+description: Chart for deploying helm-chat
+name: fack-helm-chart
+version: v1
+annotations:
+  preferredNamespace: default
