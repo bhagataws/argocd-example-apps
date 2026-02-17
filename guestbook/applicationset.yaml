@@ -19,7 +19,7 @@ spec:
       finalizers:
       - resources-finalizer.argocd.argoproj.io
     spec:
-      project: boss
+      project: default
       source:
         repoURL: "https://github.com/bhagataws/argocd-example-apps.git"
         targetRevision: HEAD
